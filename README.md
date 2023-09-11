@@ -1,4 +1,4 @@
-# LIV-testProject
+# LIV- Privacy and Data Security
 <br>
 Storing a file on the third-party system may not be safe. To securely store files on server, one can use various encryption techniques and to store the keys, key managers can be used. Our tool LIV will use multiple encryption algorithms along with the managed keys.
 
